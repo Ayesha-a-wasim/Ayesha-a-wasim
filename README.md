@@ -5,22 +5,40 @@
 
 ---
 
+### 🌱 About Me
+
+- 🔬 I transitioned from clinical diagnostics to bioinformatics (and loved every minute of it!)
+- 🧠 Self-taught Python, R, bash, and workflow design
+- 🧫 Building robust pipelines for microbiome & metagenomics analysis
+
+---
+
 🎓 **Currently:**  
 🔬 PhD Researcher at University of A Coruña (Spain)  
 🧫 Working on microbiome-based biomarkers for colorectal cancer using long- and short-read sequencing (Illumina + Nanopore)  
-🧠 Applying machine learning for microbiome-based disease classification
+🧠 Applying machine learning for microbiome-based disease classification and treatment toxicity
 
 ---
 
 🛠️ **Tech Stack**  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![QIIME2](https://img.shields.io/badge/-QIIME2-FFDD44?style=flat&logo=qiime2&logoColor=black)
-![Snakemake](https://img.shields.io/badge/-Snakemake-000000?style=flat)
-![Nanopore](https://img.shields.io/badge/-Nanopore-4ECDC4?style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+### 🛠️ Tech Stack
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
+[![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)](https://www.r-project.org/)
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)](https://www.gnu.org/software/bash/)
+
+[![QIIME2](https://img.shields.io/badge/-QIIME2-0080FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjAnIGhlaWdodD0nMjAnIHZpZXdCb3g9JzAgMCAyMCAyMCc+PGNpcmNsZSBjeD0nMTAnIGN5PScxMCcgcj0nMTAnIGZpbGw9JyMwMDgwRkYnIC8+PC9zdmc+)](https://qiime2.org/)
+[![Conda](https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white&style=flat-square)](https://docs.conda.io/)
+[![Snakemake](https://img.shields.io/badge/-Snakemake-5A6986?style=flat-square&logo=snakemake&logoColor=white)](https://snakemake.readthedocs.io/en/stable/)
+[![FastQC](https://img.shields.io/badge/-FastQC-2E8B57?style=flat-square)](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+[![NanoPlot](https://img.shields.io/badge/-NanoPlot-8A2BE2?style=flat-square)](https://github.com/wdecoster/NanoPlot)
+
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)](https://jupyter.org/)
+[![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=flat-square)](https://posit.co/products/open-source/rstudio/)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/)
+
 
 ---
 
