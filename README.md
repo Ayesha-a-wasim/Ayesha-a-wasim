@@ -60,6 +60,6 @@
 💌 **Let’s connect!**  
 [![Email](https://img.shields.io/badge/-ayesha.wasim@udc.es-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayesha.wasim@udc.es)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Ayesha-a-wasim)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-wasim/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-wasim-a5a042358)
 
 
