@@ -62,6 +62,4 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Ayesha-a-wasim)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-wasim/)
 
----
-🦠 *“Decoding microbial worlds to illuminate human health”*
 
